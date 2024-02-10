@@ -1,4 +1,7 @@
 frist line
 second line
+<<<<<<< HEAD
 third line
 fourth line
+=======
+3701931 (second commit)
