@@ -2,8 +2,8 @@
 <<<<<<< Updated upstream
 file1
 =======
-fs
+ab
 >>>>>>> Stashed changes
 =======
-fs
+ab
 >>>>>>> Stashed changes
