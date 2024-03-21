@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 file1
+=======
+fs
+>>>>>>> Stashed changes
+=======
+fs
+>>>>>>> Stashed changes
